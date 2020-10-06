@@ -1,6 +1,6 @@
 let personas = [
     {
-        nombre: "Damián",
+        nombre: "Dami",
         apellido: "Monti",
     },
     {
